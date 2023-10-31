@@ -28,8 +28,3 @@ This has been incorporated with Flask to create a very simple Web Application wh
 
 
 
-This tutorial is till ongoing. The automation of the helm chart repo has not been completed yet. This is coming soon!
-
-## Like this project?
-
-If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/askcloudtech
