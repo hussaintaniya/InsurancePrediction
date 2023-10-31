@@ -19,8 +19,8 @@ In this dataset, Childen and Smoker are specifically asked because for a smoker,
 There are 3 Algorithms Used :
 
 - Linear Regression : 79 Percent Accuracy
-- Gradient Boosting Regressor : 85 Percent Accuracy
-- Decision Tree Regressor : 55 Percent Accuract
+- Gradient Boosting Regressor : 86 Percent Accuracy
+- Decision Tree Regressor : 53 Percent Accuract
 
 ## Flask
 
